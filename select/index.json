@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Love Takes -Something-",
+  "base_artist": "lapix",
+  "createdAt": "2026-02-19T15:11:11.737962Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Takes -Something- (feat. Kanata.N)",
+      "artist": "lapix",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Takes_-Something-_(feat._Kanata.N)_lapix.txt"
+    }
+  ]
+}
